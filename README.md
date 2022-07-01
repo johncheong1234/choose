@@ -1,6 +1,6 @@
 # Link
 
-link to project: choose-mu.vercel.app
+link to project: https://choose-mu.vercel.app
 Or link: https://choose-johncheong1234.vercel.app/
 
 # Getting Started with Create React App
